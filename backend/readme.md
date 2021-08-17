@@ -1,1 +1,1 @@
-This is the bacend part of the travel pin app
+This is the backend part of the travel pin app
