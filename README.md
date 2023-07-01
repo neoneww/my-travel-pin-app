@@ -1,4 +1,4 @@
-# my-travel-pin-app
+# Travel Pin
 
 <h2>screenshot of the website</h2>
 
